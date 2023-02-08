@@ -39,18 +39,14 @@ const App = () => {
                         <Navbar/>
                         <Switch>
                             <Route path='/' exact component={Home_One}/>
-                            <Route path='/home_two' exact component={Home_Two}/>
                             <Route path='/about' exact component={About}/>
                             <Route path='/service' exact component={Service}/>
                             <Route path='/service_details' exact component={ServiceDetails}/>
-                            <Route path='/blog_grid' exact component={BlogGrid}/>
-                            <Route path='/blog_with_sidebar' exact component={BlogWithSidebar}/>
                             <Route path='/blog_details' exact component={BlogDetails}/>
                             <Route path='/our_team' exact component={OurTeamArea}/>
                             <Route path='/testimonials' exact component={Testimonials}/>
                             <Route path='/gallery' exact component={Gallery}/>
                             <Route path='/faqs' exact component={Faqs}/>
-                            <Route path='/track_ship' exact component={TrackYourShip}/>
                             <Route path='/pricing' exact component={PricingContent}/>
                             <Route path='/request_quote' exact component={RequestQuote}/>
                             <Route path='/signup' exact component={SignUp}/>

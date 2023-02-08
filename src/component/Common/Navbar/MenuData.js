@@ -2,19 +2,7 @@ export const MenuData = [
     {
         name: "Home",
         href: "/", 
-        has_children: true,
-        children: [
-            {
-                name: "Home Demo - 1",
-                href: "/",
-                has_children: false,
-            },
-            {
-                name: "Home Demo - 2",
-                href: "/home_two",
-                has_children: false,
-            },
-        ]
+        has_children: false,
     },
     {
         name: "About",
@@ -41,27 +29,15 @@ export const MenuData = [
     {
         name: "Blog",
         href: "#!",
-        has_children: true,
-        children: [
-            {
-                name: "Blog Grid",
-                href: "/blog_grid",
-                has_children: false,
-            },
-            {
-                name: "Blog With Sidebar",
-                href: "/blog_with_sidebar",
-                has_children: false,
-            },
-            {
-                name: "Single Blog",
-                href: "/blog_details",
-                has_children: false,
-            }
-        ]
+        has_children: false
     },
     {
-        name: "Pages",
+        name: "Contact",
+        href: "/contact",
+        has_children: false,
+    },
+    {
+        name: "More",
         href: "#!",
         has_children: true,
         children: [
@@ -133,10 +109,5 @@ export const MenuData = [
                 has_children: false,
             },
         ]
-    },
-    {
-        name: "Contact",
-        href: "/contact",
-        has_children: false,
-    },
+    }
 ]
