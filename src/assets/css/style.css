@@ -1762,7 +1762,7 @@ Search Overlay CSS
 
 /* --Our Advantages Area Start-- */
 #our_advantages_area {
-    background-image: url('../img/home1/truck-banner.png');
+    /* background-image: url('../img/home1/truck-banner.png'); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

@@ -38,10 +38,7 @@ const Footer = () => {
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                     Expedita eligendi aperiam harum eaque, dicta facere iste exercitationem</p>
                                 <div className="footer_social_icon">
-                                    <a href="#!"><i className="fab fa-facebook-f"></i></a>
-                                    <a href="#!"><i className="fab fa-twitter"></i></a>
-                                    <a href="#!"><i className="fab fa-linkedin-in"></i></a>
-                                    <a href="#!"><i className="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/profile.php?id=100083372317538"><i className="fab fa-facebook-f"></i></a>
                                 </div>
                             </div>
                         </div>

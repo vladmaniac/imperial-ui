@@ -6,52 +6,18 @@ export const OurAdventagesData = [
     [
         {
             img: img1,
-            heading: "Warehouse Facility",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
+            heading: "Puntualità",
+            para: "Da sempre ciò che ci distingue è la nostra puntualità nel nostro lavoro."
         },
         {
             img: img2,
-            heading: "Customer Satisfaction",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
+            heading: "Professionalità",
+            para: "La professionalità sta nel sapere come farlo, quando farlo, e nel farlo."
         },
         {
             img: img3,
-            heading: "Real-time Cargo Tracking",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
-        }
-    ],
-    [
-        {
-            img: img1,
-            heading: "Warehouse Facility",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
-        },
-        {
-            img: img2,
-            heading: "Customer Satisfaction",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
-        },
-        {
-            img: img3,
-            heading: "Real-time Cargo Tracking",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
-        }
-    ],
-    [
-        {
-            img: img1,
-            heading: "Warehouse Facility",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
-        },
-        {
-            img: img2,
-            heading: "Customer Satisfaction",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
-        },
-        {
-            img: img3,
-            heading: "Real-time Cargo Tracking",
-            para: "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor unde om"
+            heading: "Precisione",
+            para: "La precisione è ciò che distingue il professionista dal dilettante."
         }
     ]
 ]

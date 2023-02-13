@@ -1,6 +1,6 @@
-import img1 from '../../../assets/img/logistic/plane.png'
-import img2 from '../../../assets/img/logistic/shipment.png'
-import img3 from '../../../assets/img/logistic/truck-delivery.png'
+import img1 from '../../../assets/img/logistic/flota_cropped.jpg'
+import img2 from '../../../assets/img/logistic/flota_cropped.jpg'
+import img3 from '../../../assets/img/logistic/flota_cropped.jpg'
 
 export const LogisticsData = [
     [

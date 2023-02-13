@@ -35,7 +35,7 @@ const HomeBanner = () => {
                                     <div className="row">
                                         <div className="col-lg-8 col-md-12 col-sm-12 col-12">
                                             <div className="banner-text">
-                                                <h1>Shipping Products <br/>Worldwide</h1>
+                                                <h1>Trasloca in modo facile<br/>veloce e conveniente</h1>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor incididunt ut labore et dolore magna aliqua quis
                                                     ipsum suspendisse.</p>
