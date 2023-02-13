@@ -28,7 +28,7 @@ export const MenuData = [
     },
     {
         name: "Blog",
-        href: "#!",
+        href: "/blog_details",
         has_children: false
     },
     {
