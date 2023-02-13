@@ -4,11 +4,11 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 //  Client Slider Img Import
-import img1 from '../../assets/img/partner/client-1.png'
-import img2 from '../../assets/img/partner/client-2.png'
-import img3 from '../../assets/img/partner/client-3.png'
-import img4 from '../../assets/img/partner/client-4.png'
-import img5 from '../../assets/img/partner/client-5.png'
+import img1 from '../../assets/img/partner/image-partner-1.png'
+import img2 from '../../assets/img/partner/image-partner-2.jpg'
+import img3 from '../../assets/img/partner/image-partner-3.jpg'
+import img4 from '../../assets/img/partner/image-partner-4.png'
+import img5 from '../../assets/img/partner/image-partner-5.png'
 
 const OurPartnerData = [
     {

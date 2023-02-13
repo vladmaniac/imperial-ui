@@ -10,14 +10,12 @@ const MapArea = () => {
                     <div className="row">
                         <div className="col-lg-7 col-md-12 col-sm-12 col-12">
                             <div className="heading-left-border">
-                                <h2>Ship Smart with Transtics</h2>
+                                <h2>Imperial Traslochi e Trasporti</h2>
                             </div>
                         </div>
                         <div className="col-lg-5 col-md-12 col-sm-12 col-12">
                             <div className="maps-right-side-text">
-                                <p>Solving your supply chain needs from end to end, taking the complexity out of
-                                    container shipping.
-                                    We are at the forefront of developing innovative supply chain solutions.</p>
+                                <p>Semplificare le tue esigenze di trasporto e logistica con un approccio personale.</p>
                             </div>
                         </div>
                     </div>

@@ -19,7 +19,6 @@ const FooterItems = [
         links: [
             {linkTitle: "Business Consulting", link: "/service"},
             {linkTitle: "Testimonials", link: "/testimonials"},
-            {linkTitle: "Track Your Shipment", link: "/track_ship"},
             {linkTitle: "Privacy Policy", link: "/privacyPolicy"},
             {linkTitle: "Terms & Condition", link: "/terms"},
         ],
@@ -35,8 +34,7 @@ const Footer = () => {
                         <div className="col-lg-4 col-md-12 col-sm-12 col-12">
                             <div className="footer_wedget">
                                 <img src={logo} alt="logo_img"/>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                    Expedita eligendi aperiam harum eaque, dicta facere iste exercitationem</p>
+                                <p>Da Imperial Traslochi dedichiamo impegno, passione ed esperienza all'organizzazione di traslochi completi a Milano e in tutta l'Italia.</p>
                                 <div className="footer_social_icon">
                                     <a href="https://www.facebook.com/profile.php?id=100083372317538"><i className="fab fa-facebook-f"></i></a>
                                 </div>

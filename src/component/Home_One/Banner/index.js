@@ -36,9 +36,7 @@ const HomeBanner = () => {
                                         <div className="col-lg-8 col-md-12 col-sm-12 col-12">
                                             <div className="banner-text">
                                                 <h1>Trasloca in modo facile<br/>veloce e conveniente</h1>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor incididunt ut labore et dolore magna aliqua quis
-                                                    ipsum suspendisse.</p>
+                                                <p> Contattaci per info o richiedi un preventivo gratuito e senza impegno!</p>
                                                 <Link className="btn btn-theme" to="/request_quote">Get A Quote</Link>
                                             </div>
                                         </div>
@@ -52,10 +50,8 @@ const HomeBanner = () => {
                                     <div className="row">
                                         <div className="col-lg-8 col-md-12 col-sm-12 col-12">
                                             <div className="banner-text">
-                                                <h1>Shipping Products <br/>Worldwide</h1>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor incididunt ut labore et dolore magna aliqua quis
-                                                    ipsum suspendisse.</p>
+                                                <h1>Traslochi per la casa<br/>e l'ufficio</h1>
+                                                <p>Impresa di traslochi e trasporto merci che offre un servizio a 360 gradi per aziende e privati.</p>
                                                 <Link className="btn btn-theme" to="/request_quote">Get A Quote</Link>
                                             </div>
                                         </div>
@@ -69,10 +65,8 @@ const HomeBanner = () => {
                                     <div className="row">
                                         <div className="col-lg-8 col-md-12 col-sm-12 col-12">
                                             <div className="banner-text">
-                                                <h1>Shipping Products <br/>Worldwide</h1>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor incididunt ut labore et dolore magna aliqua quis
-                                                    ipsum suspendisse.</p>
+                                                <h1>Traslochi sempre<br/>puntuali</h1>
+                                                <p>Affidati al nostro esperto team per organizzare i tuoi trasferimenti: scegli Imperial Traslochi.</p>
                                                 <Link className="btn btn-theme" to="/request_quote">Get A Quote</Link>
                                             </div>
                                         </div>

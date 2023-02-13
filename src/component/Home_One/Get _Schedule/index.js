@@ -8,55 +8,18 @@ const GetSchedule = () => {
         <>
             <section id="schedule_one">
                 <div className="container">
-                    <SectionHeading heading="Get a Schedule" para="Solving your supply chain needs from end to end, taking the
-             complexity out of container shipping. We are at the forefront of developing innovation."/>
+                    <SectionHeading heading="Voglio essere contattato" para="Risolvere le esigenze della tua catena di approvvigionamento dall'inizio alla fine, prendendo il
+              complessità della spedizione in container. Siamo in prima linea nello sviluppo dell'innovazione."/>
                     <div className="row">
                         <div className="col-md-12">
                             <nav>
                                 <div className="nav nav-tabs" id="nav-tab" role="tablist">
-                                    <a className="nav-item nav-link active nav-one" id="shipment-tab" data-toggle="tab"
-                                       href="#shipment" role="tab" aria-controls="shipment" aria-selected="true">
-                                        <svg id="Capa_1" enableBackground="new 0 0 512.061 512.061"
-                                             viewBox="0 0 512.061 512.061" width="512"
-                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g>
-                                                <path
-                                                    d="m344.03 512h-167.453c-53.234 0-96.543-43.309-96.543-96.543s43.309-96.544 96.543-96.544h55.664c16.419 0 29.776-13.357 29.776-29.776s-13.357-29.776-29.776-29.776h-58.202v-30h58.202c32.961 0 59.776 26.815 59.776 59.776s-26.815 59.776-59.776 59.776h-55.664c-36.692 0-66.543 29.851-66.543 66.543s29.85 66.544 66.543 66.544h167.453z"
-                                                    fill="#0b799d"/>
-                                                <path
-                                                    d="m100.948 0-20.002 100.919 20.001 142.717 71.359-71.359c18.262-18.262 29.558-43.492 29.558-71.359.001-55.736-45.181-100.918-100.916-100.918z"
-                                                    fill="#e50058"/>
-                                                <path
-                                                    d="m.03 100.917c0 27.867 11.296 53.097 29.558 71.359l71.359 71.359v-243.635c-55.734 0-100.917 45.182-100.917 100.917z"
-                                                    fill="#ff415b"/>
-                                                <path
-                                                    d="m100.948 30-20.001 70.919 20.001 70.919c39.104 0 70.919-31.814 70.919-70.919s-31.815-70.919-70.919-70.919z"
-                                                    fill="#ff415b"/>
-                                                <path
-                                                    d="m30.029 100.919c0 39.105 31.814 70.919 70.919 70.919v-141.838c-39.105 0-70.919 31.814-70.919 70.919z"
-                                                    fill="#ff7c48"/>
-                                                <path
-                                                    d="m141.866 100.919c0-22.563-18.356-40.919-40.918-40.919l-20.001 40.919 20.001 40.919c22.562 0 40.918-18.356 40.918-40.919z"
-                                                    fill="#e1ebf0"/>
-                                                <path
-                                                    d="m60.029 100.919c0 22.563 18.356 40.919 40.919 40.919v-81.838c-22.563 0-40.919 18.356-40.919 40.919z"
-                                                    fill="#fff5f5"/>
-                                                <path
-                                                    d="m432.026 318.913-20.001 96.574 20.001 96.574 56.572-56.571c15.11-15.112 23.432-35.203 23.432-56.572 0-44.115-35.889-80.005-80.004-80.005z"
-                                                    fill="#e50058"/>
-                                                <path
-                                                    d="m352.022 398.917c0 21.37 8.321 41.461 23.431 56.572l56.573 56.571v-193.147c-44.114 0-80.004 35.89-80.004 80.004z"
-                                                    fill="#ff415b"/>
-                                            </g>
-                                        </svg>
-                                        <h6> Track My Shipment</h6>
-                                    </a>
                                     <a className="nav-item nav-link nav-two" id="schedule-tab" data-toggle="tab"
                                        href="#schedule"
-                                       role="tab" aria-controls="schedule" aria-selected="false">
+                                       role="tab" aria-controls="schedule" aria-selected="true">
                                         <svg xmlns="http://www.w3.org/2000/svg" id="Capa_2"
                                              enableBackground="new 0 0 512 512" viewBox="0 0 512 512"
-                                             data-bubblesppbfhhgcdehhbjigifndnfmcihegokbbprevent-events-conflict-installed="true"
+                                             data-bubblesprevent-events-conflict-installed="true"
                                              data-arp-injected="true">
                                             <g>
                                                 <g>
@@ -204,54 +167,29 @@ const GetSchedule = () => {
                                                 <circle cx="366.942" cy="384" fill="#ffdd40" r="17.067"/>
                                             </g>
                                         </svg>
-                                        <h6>Get a Schedule</h6></a>
+                                        <h6>Ottieni un programma</h6></a>
                                 </div>
                             </nav>
                             <div className="tab-content" id="nav-tabContent1">
-                                <div className="tab-pane fade show active" id="shipment" role="tabpanel"
-                                     aria-labelledby="shipment-tab">
-                                    <form action="#!">
-                                        <div className="row">
-                                            <div className="col-md-4">
-                                                <div className="form-group">
-                                                    <label htmlFor="number">Containers no or B/L</label>
-                                                    <input type="text" className="form-control"/>
-                                                </div>
-                                            </div>
-                                            <div className="col-md-4">
-                                                <div className="form-group">
-                                                    <label htmlFor="email">Email Address</label>
-                                                    <input type="text" className="form-control ma-inp"/>
-                                                </div>
-                                            </div>
-                                            <div className="col-md-4">
-                                                <div className="form-group">
-                                                    <button type="submit" className="btn btn-theme">Track Shipment
-                                                    </button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </form>
-                                </div>
-                                <div className="tab-pane fade" id="schedule" role="tabpanel"
+                                <div className="tab-pane fade active show" id="schedule" role="tabpanel"
                                      aria-labelledby="schedule-tab">
                                     <form action="#!">
                                         <div className="row">
                                             <div className="col-md-4 ">
                                                 <div className="form-group">
-                                                    <label htmlFor="number">Containers no or B/L</label>
-                                                    <input type="number" className="form-control"/>
+                                                    <label htmlFor="number">Name</label>
+                                                    <input type="text" className="form-control"/>
                                                 </div>
                                             </div>
                                             <div className="col-md-4">
                                                 <div className="form-group">
-                                                    <label htmlFor="email">Email Address</label>
+                                                    <label htmlFor="email">E-mail Address</label>
                                                     <input type="text" className="form-control ma-inp"/>
                                                 </div>
                                             </div>
                                             <div className="col-md-4">
                                                 <div className="form-group">
-                                                    <button type="submit" className="btn btn-theme">Track Shipment
+                                                    <button type="submit" className="btn btn-theme">Submit
                                                     </button>
                                                 </div>
                                             </div>
