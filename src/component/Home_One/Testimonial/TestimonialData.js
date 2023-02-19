@@ -1,9 +1,9 @@
 import img1 from '../../../assets/img/home1/client1.jpg'
-import logo1 from '../../../assets/img/home1/partner-1.png'
-import logo2 from '../../../assets/img/home1/partner-2.png'
-import logo3 from '../../../assets/img/home1/partner-3.png'
-import logo4 from '../../../assets/img/home1/partner-4.png'
-import logo5 from '../../../assets/img/home1/partner-5.png'
+import logo1 from '../../../assets/img/home1/partner-1.jpg'
+import logo2 from '../../../assets/img/home1/partner-1.jpg'
+import logo3 from '../../../assets/img/home1/partner-1.jpg'
+import logo4 from '../../../assets/img/home1/partner-1.jpg'
+import logo5 from '../../../assets/img/home1/partner-1.jpg'
 
 
 export const TestimonialsData = [

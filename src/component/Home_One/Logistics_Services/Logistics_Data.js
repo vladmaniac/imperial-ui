@@ -12,12 +12,12 @@ export const LogisticsData = [
         {
             img: img2,
             heading: "2.TRASLOCO UFFICIO",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         },
         {
             img: img3,
             heading: "3.TRASLOCHI INTERNAZIONALI",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         }
     ],
     [
@@ -25,29 +25,31 @@ export const LogisticsData = [
         {
             img: img2,
             heading: "2.2 MONTAGGIO MOBILI",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         },
         {
             img: img1,
             heading: "2.1 DEPOSITO MOBILI",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         },
         {
             img: img3,
             heading: "2.3 DISTRIBUZIONE ARREDI",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         }
     ]
     , [
+        // We have no clarity about what kind of services are these for the moment
+        // TODO: Ask IMPERIAL
         {
             img: img1,
             heading: "3.1 SGOMBERI",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         },
         {
             img: img2,
             heading: "3.2 SMALTIMENTO IN DISCARICA",
-            para: "We offer a Global Logistics Network with our worldwide office"
+            para: "Offriamo una Rete Logistica Locale con le nostre sedi in Lombardia"
         }
         
     ]
