@@ -42,12 +42,12 @@ const LogisticsService = () => {
                                     <ul>
                                         <li>
                                             <button className={sliderIndex === 0 ? 'active' : ''}
-                                                    onClick={() => setSliderIndex(0)}>Trasporti Nazionali e Internazionali
+                                                    onClick={() => setSliderIndex(0)}>Traslochi Nazionali e Internazionali
                                             </button>
                                         </li>
                                         <li>
                                             <button className={sliderIndex === 1 ? 'active' : ''}
-                                                    onClick={() => setSliderIndex(1)}>Traslochi Nazionali e Internazionali
+                                                    onClick={() => setSliderIndex(1)}>Servizi di logistica
                                             </button>
                                         </li>
                                     </ul>

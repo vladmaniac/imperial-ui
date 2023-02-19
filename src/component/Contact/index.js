@@ -15,7 +15,7 @@ const ContactDetails = () => {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="section_heading_center">
-                                <h2>Contact Info</h2>
+                                <h2>Informazioni di contatto</h2>
                             </div>
                         </div>
                     </div>

@@ -25,19 +25,20 @@ const ServiceSideBar = () => {
                         </ul>
                     </div>
                     <div className="sidebar_service_wrappers">
-                        <h3>Contact Us</h3>
+                        <h3>Contattaci</h3>
                         <div className="contact_sidebar">
-                            <h6>Visit our office</h6>
-                            <p>244, Cargo Hub, Los Angeles, California- 90005</p>
+                            <h6>Visita il nostro ufficio</h6>
+                            <p>Via Marconi 7, Inzago</p>
                         </div>
                         <div className="contact_sidebar">
-                            <h6>Call us on</h6>
-                            <p>Office: +44 567 890123</p>
-                            <p> Tollfree: 1800-123-45-6789</p>
+                            <h6>Telefono</h6>
+                            <p>Office: +39 388 854 5019</p>
+                            <p>Support: +39 388 391 3246</p>
                         </div>
                         <div className="contact_sidebar">
-                            <h6>Mail Us at</h6>
-                            <p>Mailus@CargoHub.com</p>
+                            <h6>Email</h6>
+                            <p>info@imperialtraslochi.it</p>
+                            <p>deposito@imperialtraslochi.it</p>
                         </div>
                     </div>
                 </div>

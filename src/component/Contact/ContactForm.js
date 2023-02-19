@@ -13,7 +13,7 @@ const ContactForm = () => {
                             type={'text'}
                             name={'name'}
                             classes={'form-control'}
-                            placeholder={'Name'}
+                            placeholder={'Nome'}
                         />
                     </div>
                     <div className="col-lg-12">
@@ -31,7 +31,7 @@ const ContactForm = () => {
                             type={'text'}
                             name={'subject'}
                             classes={'form-control'}
-                            placeholder={'Subject'}
+                            placeholder={'Il Tema'}
                         />
                     </div>
                     <div className="col-lg-12">
@@ -40,14 +40,14 @@ const ContactForm = () => {
                             type={'text'}
                             name={'subject'}
                             classes={'form-control'}
-                            placeholder={'Type Your Messages...'}
+                            placeholder={'Digita il tuo messaggio...'}
                         />
                     </div>
                     <div className="col-lg-12">
                         <div className="contact_form_submit">
                             <FormInput
                                 tag={'button'}
-                                val={'Send'}
+                                val={'Inviare'}
                             />
                         </div>
                     </div>

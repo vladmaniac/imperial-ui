@@ -8,19 +8,19 @@ const FooterItems = [
         title: "Quick Link",
         links: [
             {linkTitle: "Home", link: "/"},
-            {linkTitle: "About Company", link: "/about"},
-            {linkTitle: "Our Services", link: "/service"},
-            {linkTitle: "Recent News", link: "/blog_grid"},
-            {linkTitle: "Contact us", link: "/contact"},
+            {linkTitle: "Chi siamo", link: "/about"},
+            {linkTitle: "Servizi", link: "/service"},
+            {linkTitle: "Notizie recenti", link: "/blog_grid"},
+            {linkTitle: "Contatto", link: "/contact"},
         ],
     },
     {
         title: "Company",
         links: [
-            {linkTitle: "Business Consulting", link: "/service"},
-            {linkTitle: "Testimonials", link: "/testimonials"},
-            {linkTitle: "Privacy Policy", link: "/privacyPolicy"},
-            {linkTitle: "Terms & Condition", link: "/terms"},
+            {linkTitle: "Servizi", link: "/service"},
+            {linkTitle: "Testimonianze", link: "/testimonials"},
+            {linkTitle: "Politica sulla riservatezza", link: "/privacyPolicy"},
+            {linkTitle: "Termini e condizioni", link: "/terms"},
         ],
     }
 ]
@@ -58,16 +58,16 @@ const Footer = () => {
                         </div>
                         <div className="col-lg-3 col-md-12 col-sm-12 col-12">
                             <div className="footer_wedget">
-                                <h4>Contact Info</h4>
+                                <h4>Contatto</h4>
                                 <div className="contact-info-footer">
                                     <ul>
-                                        <li><i className="fas fa-map-marker-alt"></i>Via Pave 4, Milano, 20056</li>
+                                        <li><i className="fas fa-map-marker-alt"></i>Via Marconi 7, Inzago</li>
                                         <li><i className="far fa-envelope"></i> <a
-                                            href="mailto:office@imperialtraslochi.it"> office@imperialtraslochi.it</a></li>
+                                            href="mailto:office@imperialtraslochi.it"> info@imperialtraslochi.it</a></li>
                                         <li><i className="far fa-envelope"></i> <a
-                                            href="mailto:andrei.birca@imperialtraslochi.it">andrei@imperialtraslochi.it</a></li>
+                                            href="mailto:andrei.birca@imperialtraslochi.it">deposito@imperialtraslochi.it</a></li>
                                         <li><i className="fas fa-phone-volume"></i> <a href="tel:+39 388 854 5019"> +39 388 854 5019</a></li>
-                                        <li><i className="far fa-clock"></i>Mon - Sat: 9:00 - 18:00</li>
+                                        <li><i className="far fa-clock"></i>Lunedi - Domenica: 7:00 - 21:00</li>
                                     </ul>
                                 </div>
                             </div>

@@ -5,22 +5,22 @@ export const MenuData = [
         has_children: false,
     },
     {
-        name: "About",
+        name: "Chi Siamo",
         href: "/about",
         has_children: false,
     },
     {
-        name: "Services",
+        name: "Servizi",
         href: "#!",
         has_children: true,
         children: [
             {
-                name: "Services",
+                name: "Servizi",
                 href: "/service",
                 has_children: false,
             },
             {
-                name: "Service Details",
+                name: "Servizi dettagliati",
                 href: "/service_details",
                 has_children: false,
             }
@@ -32,48 +32,38 @@ export const MenuData = [
         has_children: false
     },
     {
-        name: "Contact",
+        name: "Contatto",
         href: "/contact",
         has_children: false,
     },
     {
-        name: "More",
+        name: "Di più",
         href: "#!",
         has_children: true,
         children: [
             {
-                name: "Team",
+                name: "Squadra",
                 href: "/our_team",
                 has_children: false,
             },
             {
-                name: "Pricing",
-                href: "/pricing",
-                has_children: false,
-            },
-            {
-                name: "Request Quote",
+                name: "Richiedi preventivo",
                 href: "/request_quote",
                 has_children: false,
             },
             {
-                name: "Testimonials",
+                name: "Testimonianze",
                 href: "/testimonials",
                 has_children: false,
             },
             {
-                name: "Gallery",
+                name: "Galleria",
                 href: "/gallery",
                 has_children: false,
             },
             {
                 name: "FAQ",
                 href: "/faqs",
-                has_children: false,
-            },
-            {
-                name: "Track Your Shipment",
-                href: "/track_ship",
                 has_children: false,
             },
             {
@@ -94,20 +84,15 @@ export const MenuData = [
                 ]
             },
             {
-                name: "Privacy Policy",
+                name: "Politica sulla riservatezza",
                 href: "/privacyPolicy",
                 has_children: false,
             },
             {
-                name: "Terms & Condition",
+                name: "Termini e condizioni",
                 href: "/terms",
                 has_children: false,
-            },
-            {
-                name: "404 Error Page",
-                href: "/error",
-                has_children: false,
-            },
+            }
         ]
     }
 ]

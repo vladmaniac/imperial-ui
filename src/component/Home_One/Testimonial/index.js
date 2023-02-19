@@ -65,7 +65,7 @@ const Testimonials = () => {
                                 </OwlCarousel>
                             </div>
                             <div className="review_button">
-                                <a href="#!" className="btn btn-theme">More Review</a>
+                                <a href="#!" className="btn btn-theme">Di più</a>
                             </div>
                         </div>
                     </div>
