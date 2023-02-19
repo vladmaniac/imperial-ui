@@ -6,7 +6,7 @@ import OurPartner from '../component/Common/OurPartner'
 const TermsCondition = () => {
     return (
         <>
-            <CommonBanner heading="Terms & Condition" page="Terms & Condition"/>
+            <CommonBanner heading="Termini e condizioni" page="Termini e condizioni"/>
             <TermsConditionContent/>
             <OurPartner/>
         </>

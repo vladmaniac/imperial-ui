@@ -50,6 +50,71 @@ const TermsConditionContent = () => {
                                     Le informazioni vengono utilizzate per ottimizzare l'esperienza degli utenti personalizzando il contenuto della nostra pagina web in base al tipo di browser dei visitatori e/o ad altre informazioni.
                                     Per informazioni più generali sui cookie, leggere l'articolo sui cookie sul sito Web Generate Privacy Policy.</p>
                             </div>
+                            <div className="text_heading_para">
+                                <h3>Norme sulla privacy dei partner pubblicitari</h3>
+                                <p>Puoi consultare questo elenco per trovare l'Informativa sulla privacy di ciascuno dei partner pubblicitari di Imperial Traslochi.
+                                    Gli ad server o le reti pubblicitarie di terze parti utilizzano tecnologie come cookie, JavaScript o Web Beacon utilizzati nei rispettivi annunci pubblicitari e collegamenti visualizzati su Imperial Traslochi, che vengono inviati direttamente al browser degli utenti. Ricevono automaticamente il tuo indirizzo IP quando ciò si verifica. Queste tecnologie vengono utilizzate per misurare l'efficacia delle loro campagne pubblicitarie e/o per personalizzare i contenuti pubblicitari che vedi sui siti web che visiti.
+                                    Tieni presente che Imperial Traslochi non ha accesso o controllo su questi cookie utilizzati da inserzionisti di terze parti.</p>
+                            </div>
+                            <div className="text_heading_para">
+                                <h3>Norme sulla privacy di terze parti</h3>
+                                <p>L'informativa sulla privacy di Imperial Traslochi non si applica ad altri inserzionisti o siti web.
+                                    Pertanto, ti consigliamo di consultare le rispettive Norme sulla privacy di questi ad server di terze parti per informazioni più dettagliate.
+                                    Può includere le loro pratiche e istruzioni su come rinunciare a determinate opzioni.
+                                    Puoi scegliere di disabilitare i cookie attraverso le singole opzioni del tuo browser. Per conoscere informazioni più dettagliate sulla gestione dei cookie con specifici browser web, è possibile trovarle nei rispettivi siti web dei browser.</p>
+                            </div>
+                            <div className="text_heading_para">
+                                <h3>Diritti sulla privacy del CCPA (non vendere le mie informazioni personali)</h3>
+                                <p>In base al CCPA, tra gli altri diritti, i consumatori della California hanno il diritto di:</p><br/>
+                                    <ul>
+                                        <li>
+                                            Richiedere a un'azienda che raccoglie i dati personali di un consumatore di divulgare le categorie e i dati personali specifici che un'azienda ha raccolto sui consumatori.
+                                        </li>
+                                        <li>
+                                            Richiedere a un'azienda di eliminare tutti i dati personali sul consumatore che un'azienda ha raccolto.
+                                        </li>
+                                        <li>
+                                            Richiedere che un'azienda che vende i dati personali di un consumatore, non venda i dati personali del consumatore.
+                                        </li>
+                                        <li>
+                                            Se fai una richiesta, abbiamo un mese per risponderti. Se desideri esercitare uno di questi diritti, contattaci.
+                                        </li>
+                                    </ul>
+                            </div>
+                            <div className="text_heading_para">
+                                <h3>Diritti sulla protezione dei dati GDPR</h3>
+                                <p>Vorremmo assicurarci che tu sia pienamente consapevole di tutti i tuoi diritti di protezione dei dati. Ogni utente ha diritto a quanto segue:</p><br/>
+                                    <ul>
+                                        <li>
+                                            Il diritto di accesso – Hai il diritto di richiedere copie dei tuoi dati personali. Potremmo addebitarti una piccola commissione per questo servizio.
+                                        </li>
+                                        <li>
+                                            Il diritto alla rettifica: hai il diritto di richiedere la correzione di qualsiasi informazione che ritieni inesatta. Hai anche il diritto di richiedere che completiamo le informazioni che ritieni incomplete.
+                                        </li>
+                                        <li>
+                                            Il diritto alla cancellazione: hai il diritto di richiedere la cancellazione dei tuoi dati personali, a determinate condizioni.
+                                        </li>
+                                        <li>
+                                            Il diritto di limitare il trattamento: hai il diritto di richiedere che limitiamo il trattamento dei tuoi dati personali, a determinate condizioni.
+                                        </li>
+                                        <li>
+                                            Il diritto di opporsi al trattamento: hai il diritto di opporti al nostro trattamento dei tuoi dati personali, a determinate condizioni.
+                                        </li>
+                                        <li>
+                                            Il diritto alla portabilità dei dati: hai il diritto di richiedere il trasferimento dei dati che abbiamo raccolto a un'altra organizzazione o direttamente a te, a determinate condizioni.
+                                        </li>
+                                        <li>
+                                            Se fai una richiesta, abbiamo un mese per risponderti. Se desideri esercitare uno di questi diritti, contattaci.
+                                        </li>
+                                    </ul>
+                            </div>
+                            <div className="text_heading_para">
+                                <h3>Informazioni sui bambini</h3>
+                                <p>Un'altra parte della nostra priorità è aggiungere la protezione dei bambini durante l'utilizzo di Internet. 
+                                    Incoraggiamo i genitori e i tutori a osservare, partecipare e/o monitorare e guidare la loro attività online.
+                                    Imperial Traslochi non raccoglie consapevolmente alcuna informazione di identificazione personale da bambini di età inferiore ai 13 anni.
+                                    Se ritieni che tuo figlio abbia fornito questo tipo di informazioni sul nostro sito Web, ti invitiamo vivamente a contattarci immediatamente e faremo del nostro meglio sforzi per rimuovere tempestivamente tali informazioni dai nostri archivi.</p>
+                            </div>
                         </div>
                     </div>
                 </div>

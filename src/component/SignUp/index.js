@@ -73,8 +73,7 @@ const SignUpForm = (props) => {
                                                 <div className="form-group form-check">
                                                     <input type="checkbox" className="form-check-input"
                                                            id="exampleCheck1"/>
-                                                    <label className="form-check-label" htmlFor="exampleCheck1">I agree
-                                                        with Terms & Conditions</label>
+                                                    <label className="form-check-label" htmlFor="exampleCheck1">Sono d'accordo con i Termini e condizioni</label>
                                                 </div>
                                             </div>
                                             <div className="col-lg-12">
@@ -87,7 +86,7 @@ const SignUpForm = (props) => {
                                             </div>
                                             <div className="col-lg-12">
                                                 <div className="not_remember_area">
-                                                    <p>Already have an account? <Link to="/signIn"> Sign Up</Link></p>
+                                                    <p>Hai già un account? <Link to="/signIn"> Sign Up</Link></p>
                                                 </div>
                                             </div>
                                         </div>

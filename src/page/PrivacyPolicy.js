@@ -6,7 +6,7 @@ import OurPartner from '../component/Common/OurPartner'
 const PrivacyPolicy = () => {
     return (
         <>
-            <CommonBanner heading="Privacy Policy" page="Privacy Policy"/>
+            <CommonBanner heading="Politica sulla riservatezza " page="Politica sulla riservatezza"/>
             <OurPolicies/>
             <OurPartner/>
         </>
