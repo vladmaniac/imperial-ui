@@ -6,7 +6,7 @@ import OurPartner from '../component/Common/OurPartner'
 const Gallery = () => {
     return (
         <>
-            <CommonBanner heading="Gallery" page="Gallery"/>
+            <CommonBanner heading="Galleria" page="Galleria"/>
             <GalleryImages/>
             <OurPartner/>
         </>

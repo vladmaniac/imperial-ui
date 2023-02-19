@@ -10,7 +10,7 @@ const FooterItems = [
             {linkTitle: "Home", link: "/"},
             {linkTitle: "Chi siamo", link: "/about"},
             {linkTitle: "Servizi", link: "/service"},
-            {linkTitle: "Notizie recenti", link: "/blog_grid"},
+            {linkTitle: "Notizie recenti", link: "/blog_details"},
             {linkTitle: "Contatto", link: "/contact"},
         ],
     },

@@ -36,7 +36,7 @@ const TopHeader = () => {
                                     <Link to="/contact">Support</Link>
                                 </li>
                                 <li className="mr-20">
-                                    <Link to="/blog_grid">News & Media</Link>
+                                    <Link to="/blog_details">Notizie e media</Link>
                                 </li>
                             </ul>
                         </div>

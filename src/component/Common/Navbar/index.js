@@ -2,6 +2,8 @@ import React, {useState, useEffect} from 'react'
 import {Link} from 'react-router-dom';
 // Import Logo
 import logo from '../../../assets/img/logo.png'
+// Import Logo
+import logoBlu from '../../../assets/img/logo-blu.png'
 // Import TopHeader
 import TopHeader from '../TopHeader'
 // Import MenuData
@@ -55,7 +57,7 @@ const Navbar = () => {
             <div className="container">
                 <nav className="navbar navbar-expand-md navbar-light">
                   <Link className="navbar-brand" to="/">
-                      <img src={logo} alt="logo" />
+                      <img src={logoBlu} alt="logo" />
                   </Link>
 
                     <div className="mean-menu" id="navbarSupportedContent">
