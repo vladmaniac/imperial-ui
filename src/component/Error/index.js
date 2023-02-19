@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom';
 // Import Error img
-import img1 from '../../assets/img/common/error.png'
+import img1 from '../../assets/img/common/error-404.png'
 
 // ErrorArea Area
 const ErrorMessages = () => {
@@ -13,7 +13,7 @@ const ErrorMessages = () => {
                         <div className="container">
                             <div className="error-img">
                                 <img src={img1} alt="Error Imgs"/>
-                                <h3>Page Not Found</h3>
+                                <h3>Pagina non trovata</h3>
                                 <Link to="/" className="btn btn-theme">Back To Home</Link>
                             </div>
                         </div>

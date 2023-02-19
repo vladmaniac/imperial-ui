@@ -40,7 +40,7 @@ const HomeBannerTwo = () => {
                                                 <h1>Digital Shipping Solution</h1>
                                                 <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
                                                     quis ipsum suspendisse.</p>
-                                                <Link className="btn btn-theme" to="/about">Get A Quote</Link>
+                                                <Link className="btn btn-theme" to="/about">Richiedi un preventivo</Link>
                                             </div>
                                         </div>
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
@@ -82,7 +82,7 @@ const HomeBannerTwo = () => {
                                                 <h1>Digital Shipping Solution</h1>
                                                 <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
                                                     quis ipsum suspendisse.</p>
-                                                <Link className="btn btn-theme" to="/about">Get A Quote</Link>
+                                                <Link className="btn btn-theme" to="/about">Richiedi un preventivo</Link>
                                             </div>
                                         </div>
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">

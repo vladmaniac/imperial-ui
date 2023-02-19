@@ -56,7 +56,7 @@ const RequestQuoteForm = () => {
                <div className="row">
                 <div className="col-lg-12">
                 <div className="heading_quote">
-                    <h3>Get a quote</h3>
+                    <h3>Richiedi un preventivo</h3>
                 </div>
                 </div>
                  <div className="col-lg-6">

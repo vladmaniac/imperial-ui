@@ -1864,7 +1864,7 @@ Search Overlay CSS
 /* --Client Area Strat-- */
 #client_review_area {
     padding: 120px 0 0;
-    background-image: url('../img/home1/shipments.jpg');
+    background-color: #032c56;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -2070,13 +2070,13 @@ Search Overlay CSS
 
 /*-- Subscribe Area Start --*/
 #subscribe_area {
-    background-image: url('../img/home1/subscrib-bg.png');
+    /*--background-image: url('../img/home1/subscrib-bg.jpg');--*/
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #subscribe_area .heading-left-border h2 {
-    color: #fff;
+    color: var(--main-theme-color);
 }
 
 #subscribe_area .row {

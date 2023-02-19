@@ -33,8 +33,8 @@ const LogisticsService = () => {
         <>
             <section id="logistics_area">
                 <div className="container">
-                    <SectionHeading heading="Logistics Services" para="Solving your supply chain needs from end to end, taking the
-             complexity out of container shipping. We are at the forefront of developing innovation."/>
+                    <SectionHeading heading="Servizi logistici" para="Risolvere le esigenze della tua catena di approvvigionamento dall'inizio alla fine, prendendo il
+              complessità della spedizione in container. Siamo in prima linea nello sviluppo dell'innovazione."/>
                     <div className="row">
                         <div className="col-md-12">
                             <div className="logistics_wrappers">

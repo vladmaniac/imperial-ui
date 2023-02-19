@@ -1,4 +1,4 @@
-import img1 from '../../../assets/img/home1/client1.png'
+import img1 from '../../../assets/img/home1/client1.jpg'
 import logo1 from '../../../assets/img/home1/partner-1.png'
 import logo2 from '../../../assets/img/home1/partner-2.png'
 import logo3 from '../../../assets/img/home1/partner-3.png'
@@ -8,39 +8,34 @@ import logo5 from '../../../assets/img/home1/partner-5.png'
 
 export const TestimonialsData = [
     {
-        para: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
+        para: `Siamo stati lieti di lavorare insieme a Imperial in molti progetti negli ultimi anni. Abbiamo realizzato insieme movimenti di uffici, progetti di assemblaggio di mobili e molte altre azioni su larga scala. Siamo felici e possiamo dire che questa azienda è un partner a lungo termine per la nostra attività`,
         img: img1,
-        name: "David Huxham",
-        dest: "Founder, Huxham Inc"
+        name: "Luigi Verdure",
+        dest: "Founder, Huxham Ltd"
     },
     {
-        para: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
+        para: `Siamo stati lieti di lavorare insieme a Imperial in molti progetti negli ultimi anni. Abbiamo realizzato insieme movimenti di uffici, progetti di assemblaggio di mobili e molte altre azioni su larga scala. Siamo felici e possiamo dire che questa azienda è un partner a lungo termine per la nostra attività`,
         img: img1,
-        name: "David Huxham",
-        dest: "Founder, Huxham Inc"
+        name: "Luigi Verdure",
+        dest: "Founder, Huxham Ltd"
     },
     {
-        para: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
+        para: `Siamo stati lieti di lavorare insieme a Imperial in molti progetti negli ultimi anni. Abbiamo realizzato insieme movimenti di uffici, progetti di assemblaggio di mobili e molte altre azioni su larga scala. Siamo felici e possiamo dire che questa azienda è un partner a lungo termine per la nostra attività`,
         img: img1,
-        name: "David Huxham",
-        dest: "Founder, Huxham Inc"
+        name: "Luigi Verdure",
+        dest: "Founder, Huxham Ltd"
     },
     {
-        para: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
+        para: `Siamo stati lieti di lavorare insieme a Imperial in molti progetti negli ultimi anni. Abbiamo realizzato insieme movimenti di uffici, progetti di assemblaggio di mobili e molte altre azioni su larga scala. Siamo felici e possiamo dire che questa azienda è un partner a lungo termine per la nostra attività`,
         img: img1,
-        name: "David Huxham",
-        dest: "Founder, Huxham Inc"
+        name: "Luigi Verdure",
+        dest: "Founder, Huxham Ltd"
     },
     {
-        para: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
+        para: `Siamo stati lieti di lavorare insieme a Imperial in molti progetti negli ultimi anni. Abbiamo realizzato insieme movimenti di uffici, progetti di assemblaggio di mobili e molte altre azioni su larga scala. Siamo felici e possiamo dire che questa azienda è un partner a lungo termine per la nostra attività`,
         img: img1,
-        name: "David Huxham",
-        dest: "Founder, Huxham Inc"
+        name: "Luigi Verdure",
+        dest: "Founder, Huxham Ltd"
     },
 ]
 

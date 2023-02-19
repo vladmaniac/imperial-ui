@@ -31,8 +31,8 @@ const Testimonials = () => {
         <>
             <section id="client_review_area">
                 <div className="container">
-                    <SectionHeading heading="Client's Review" para="Solving your supply chain needs from end to end, taking the
-             complexity out of container shipping. We are at the forefront of developing innovation."/>
+                    <SectionHeading heading="Recensione del cliente" para="Risolvere le esigenze della tua catena di approvvigionamento dall'inizio alla fine, prendendo il
+              complessità della spedizione in container. Siamo in prima linea nello sviluppo dell'innovazione."/>
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="client_sliders_wrappers">
@@ -43,11 +43,11 @@ const Testimonials = () => {
                                             <i className="fas fa-quote-right fa-3x"></i>
                                             <div className="testimonial-box">
                                                   <span>
-                                                     <i className="fas fa-star"></i>
                                                       <i className="fas fa-star"></i>
                                                       <i className="fas fa-star"></i>
-                                                     <i className="fas fa-star"></i>
-                                                     <i className="far fa-star"></i>
+                                                      <i className="fas fa-star"></i>
+                                                      <i className="fas fa-star"></i>
+                                                      <i className="fas fa-star"></i>
                                                   </span>
                                                 <p>{data.para}</p>
                                                 <div className="client-destination">

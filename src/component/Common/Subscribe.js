@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../../assets/img/home1/parcel.png'
+import img1 from '../../assets/img/home1/parcel.jpg'
 // Subscribe Area
 const Subscribe = () => {
     return (
@@ -15,10 +15,10 @@ const Subscribe = () => {
                         <div className="col-lg-8 col-md-12 col-sm-12 col-12">
                             <div className="subscribe-area-inner">
                                 <div className="heading-left-border">
-                                    <h2>Subscribe for Offers and News</h2>
+                                    <h2>Iscriviti per offerte e novità</h2>
                                 </div>
                                 <div className="input-group">
-                                    <input type="text" className="form-control" placeholder="Recipient's email"/>
+                                    <input type="text" className="form-control" placeholder="Email del destinatario"/>
                                     <div className="input-group-append">
                                         <button className="btn  btn-theme" type="button"
                                                 id="button-addon2">Subscribe

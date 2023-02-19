@@ -37,7 +37,7 @@ const HomeBanner = () => {
                                             <div className="banner-text">
                                                 <h1>Trasloca in modo facile<br/>veloce e conveniente</h1>
                                                 <p> Contattaci per info o richiedi un preventivo gratuito e senza impegno!</p>
-                                                <Link className="btn btn-theme" to="/request_quote">Get A Quote</Link>
+                                                <Link className="btn btn-theme" to="/request_quote">Richiedi un preventivo</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -52,7 +52,7 @@ const HomeBanner = () => {
                                             <div className="banner-text">
                                                 <h1>Traslochi per la casa<br/>e l'ufficio</h1>
                                                 <p>Impresa di traslochi e trasporto merci che offre un servizio a 360 gradi per aziende e privati.</p>
-                                                <Link className="btn btn-theme" to="/request_quote">Get A Quote</Link>
+                                                <Link className="btn btn-theme" to="/request_quote">Richiedi un preventivo</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@ const HomeBanner = () => {
                                             <div className="banner-text">
                                                 <h1>Traslochi sempre<br/>puntuali</h1>
                                                 <p>Affidati al nostro esperto team per organizzare i tuoi trasferimenti: scegli Imperial Traslochi.</p>
-                                                <Link className="btn btn-theme" to="/request_quote">Get A Quote</Link>
+                                                <Link className="btn btn-theme" to="/request_quote">Richiedi un preventivo</Link>
                                             </div>
                                         </div>
                                     </div>

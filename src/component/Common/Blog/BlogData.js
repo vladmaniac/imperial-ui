@@ -1,46 +1,43 @@
-import img1 from '../../../assets/img/blog/blog1.jpg'
-import img2 from '../../../assets/img/blog/blog2.jpg'
-import img3 from '../../../assets/img/blog/blog3.jpg'
-import img4 from '../../../assets/img/blog/blog4.jpg'
-import img5 from '../../../assets/img/blog/blog5.jpg'
-import img6 from '../../../assets/img/blog/blog6.jpg'
-import img7 from '../../../assets/img/blog/blog7.jpg'
-import img8 from '../../../assets/img/blog/blog8.jpg'
-import img9 from '../../../assets/img/blog/blog9.jpg'
+import img1 from '../../../assets/img/blog/blog1.png'
+import img2 from '../../../assets/img/blog/blog1.png'
+import img3 from '../../../assets/img/blog/blog1.png'
+import img4 from '../../../assets/img/blog/blog1.png'
+import img5 from '../../../assets/img/blog/blog1.png'
+import img6 from '../../../assets/img/blog/blog1.png'
+import img7 from '../../../assets/img/blog/blog1.png'
+import img8 from '../../../assets/img/blog/blog1.png'
+import img9 from '../../../assets/img/blog/blog1.png'
 
 export const BlogData = [
     {
         img: img1,
-        heading: "WE HAVE STARTED NEW SECTION IN GROUND SHIPPING",
-        para: `Lorem ipsum dolor sit amet, consctetur adip
-  iscing elit. Aenean in ante magna.`,
-        name: "Khorshad DOE",
+        heading: "ABBIAMO INIZIATO UNA NUOVA SEZIONE NELLE SPEDIZIONI TERRA",
+        para: `Dai un'occhiata agli ultimi investimenti che abbiamo implementato qui all'Imperial`,
+        name: "Alessandro del Piero",
         comment: " 6 comments",
-        date: "3 july 2020",
-        month: "july",
+        date: "3 gennaio 2023",
+        month: "gennaio",
         day: "03"
     },
     {
         img: img2,
-        heading: "Fleet Management Comes into Focus",
-        para: `Lorem ipsum dolor sit amet, consctetur adip
-  iscing elit. Aenean in ante magna.`,
-        name: "Jon DOE",
+        heading: "NUOVO BUSINESS INCOMING PER IMPERIAL - 5 NUOVI CLIENTI",
+        para: `Seguendo le tendenze del mercato, l'attività di Imperial sta crescendo rapidamente, con 5 nuovi contratti annuali`,
+        name: "Andrei Birca",
         comment: " 4 comments",
-        date: "23 Jan 2020",
-        month: "jan",
-        day: "23"
+        date: "20 gennaio 2023",
+        month: "gennaio",
+        day: "20"
     },
     {
         img: img3,
-        heading: "New Warehouse Now Operational",
-        para: `Lorem ipsum dolor sit amet, consctetur adip
-  iscing elit. Aenean in ante magna.`,
-        name: "Harish Mondol",
+        heading: "NUOVO MAGAZZINO ORA OPERATIVO",
+        para: `Il nostro nuovo magazzino è aperto! Approfitta della moderna gestione delle strutture con automazione integrata delle confezioni e smistatrice all'avanguardia`,
+        name: "Andrei Birca",
         comment: "36 comments",
-        date: "31 july 2020",
-        month: "july",
-        day: "31"
+        date: "29 gennaio 2023",
+        month: "gennaio",
+        day: "29"
     },
     {
         img: img4,
