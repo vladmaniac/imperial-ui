@@ -6,7 +6,7 @@ import OurPartner from '../component/Common/OurPartner'
 const OurTeam = () => {
     return ( 
         <>
-            <CommonBanner heading="Our Team" page="Our Team"/>
+            <CommonBanner heading="La nostra squadra" page="La nostra squadra"/>
             <TeamCards/>
             <OurPartner/>
         </>
