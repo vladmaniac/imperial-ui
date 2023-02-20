@@ -21,7 +21,7 @@ const SignUpForm = (props) => {
                                                     type={'text'}
                                                     name={'f_name'}
                                                     classes={'form-control'}
-                                                    placeholder={'First Name'}
+                                                    placeholder={'Nome'}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -30,7 +30,7 @@ const SignUpForm = (props) => {
                                                     type={'text'}
                                                     name={'l_name'}
                                                     classes={'form-control'}
-                                                    placeholder={'Last Name'}
+                                                    placeholder={'Cognome'}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -39,7 +39,7 @@ const SignUpForm = (props) => {
                                                     type={'text'}
                                                     name={'user_name'}
                                                     classes={'form-control'}
-                                                    placeholder={'User Name'}
+                                                    placeholder={'Nome utente'}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -48,7 +48,7 @@ const SignUpForm = (props) => {
                                                     type={'text'}
                                                     name={'email'}
                                                     classes={'form-control'}
-                                                    placeholder={'Email Address'}
+                                                    placeholder={'Indirizzo e-mail'}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -57,7 +57,7 @@ const SignUpForm = (props) => {
                                                     type={'password'}
                                                     name={'password'}
                                                     classes={'form-control'}
-                                                    placeholder={'Password'}
+                                                    placeholder={"Password"}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -66,7 +66,7 @@ const SignUpForm = (props) => {
                                                     type={'password'}
                                                     name={'c_password'}
                                                     classes={'form-control'}
-                                                    placeholder={'Confirm Password'}
+                                                    placeholder={'Conferma Password'}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -86,7 +86,7 @@ const SignUpForm = (props) => {
                                             </div>
                                             <div className="col-lg-12">
                                                 <div className="not_remember_area">
-                                                    <p>Hai già un account? <Link to="/signIn"> Sign Up</Link></p>
+                                                    <p>Hai già un account? <Link to="/signIn"> Sign In</Link></p>
                                                 </div>
                                             </div>
                                         </div>

@@ -6,8 +6,8 @@ import OurPartner from '../component/Common/OurPartner'
 const SignIn = () => {
     return (
         <>
-            <CommonBanner heading="SignIn" page="SignIn"/>
-            <SignInForm heading="Sign in to Your Account!"/>
+            <CommonBanner heading="Sign In" page="Sign In"/>
+            <SignInForm heading="Accedi al tuo conto!"/>
             <OurPartner/>
         </>
     )

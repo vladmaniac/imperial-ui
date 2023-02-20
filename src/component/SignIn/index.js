@@ -21,7 +21,7 @@ const SignInForm = (props) => {
                                                     type={'text'}
                                                     name={'email'}
                                                     classes={'form-control'}
-                                                    placeholder={'Username or Email'}
+                                                    placeholder={'Nome utente o Email'}
                                                 />
                                             </div>
                                             <div className="col-lg-12">
@@ -37,8 +37,7 @@ const SignInForm = (props) => {
                                                 <div className="form-group form-check">
                                                     <input type="checkbox" className="form-check-input"
                                                            id="exampleCheck1"/>
-                                                    <label className="form-check-label" htmlFor="exampleCheck1">Remember
-                                                        me</label>
+                                                    <label className="form-check-label" htmlFor="exampleCheck1">Ricordati di me</label>
                                                 </div>
                                             </div>
                                             <div className="col-lg-12">
@@ -51,7 +50,7 @@ const SignInForm = (props) => {
                                             </div>
                                             <div className="col-lg-12">
                                                 <div className="not_remember_area">
-                                                    <p>Not a member? <Link to="/signup">Sign Up</Link></p>
+                                                    <p>Non un membro? <Link to="/signup">Sign Up</Link></p>
                                                 </div>
                                             </div>
                                         </div>

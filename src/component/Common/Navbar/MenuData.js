@@ -72,12 +72,12 @@ export const MenuData = [
                 has_children: true,
                 children: [
                     {
-                        name: "SignIn",
+                        name: "Sign In",
                         href: "/signIn",
                         has_children: false,
                     },
                     {
-                        name: "SignUp",
+                        name: "Sign Up",
                         href: "/signup",
                         has_children: false,
                     },

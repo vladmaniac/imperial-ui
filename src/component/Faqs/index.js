@@ -1,6 +1,6 @@
 import React from 'react'
 // Import FaqsData Area
-import {FaqsData} from './FaqsData'
+import { FaqsData } from './FaqsData'
 // Import QuestionForm Area
 import QuestionForm from '../Faqs/QuestionForm'
 // FaqsArea Area
