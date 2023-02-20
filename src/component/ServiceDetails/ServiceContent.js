@@ -1,7 +1,7 @@
 import React from 'react'
 // Import img
-import img1 from '../../assets/img/service/service_details1.png'
-import img2 from '../../assets/img/service/service_details2.png'
+import img1 from '../../assets/img/service/service_details1.jpg'
+import img2 from '../../assets/img/service/service_details2.jpg'
 
 const ServiceContent = () => {
     return (

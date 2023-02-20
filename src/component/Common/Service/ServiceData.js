@@ -5,61 +5,54 @@ import img4 from '../../../assets/img/service/serv-4.jpg'
 import img5 from '../../../assets/img/service/serv-5.jpg'
 import img6 from '../../../assets/img/service/serv-6.jpg'
 import img7 from '../../../assets/img/service/serv-7.jpg'
-import img8 from '../../../assets/img/service/serv-8.jpg'
 
 export const ServiceData = [
     {
         img: img1,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
-    },
-    {
-        img: img2,
-        heading: "Air Freight",
-        para: "As a leader in global air freight forwarding, OIA Global excels in providing tailored transportation.",
-        button: "Read More"
-    },
-    {
-        img: img3,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
-    },
-    {
-        img: img4,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
-    },
-    {
-        img: img5,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
+        heading: "TRASLOCO CASA",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
     },
     {
         img: img1,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
+        heading: "TRASLOCO UFFICIO",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
     },
     {
-        img: img6,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
+        img: img1,
+        heading: "TRASLOCHI INTERNAZIONALI",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
     },
     {
-        img: img7,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
+        img: img1,
+        heading: "MONTAGGIO MOBILI",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
     },
     {
-        img: img8,
-        heading: "Road Freight Forwarding",
-        para: "Cargo are transported at some stage of their journey along the world’s roads where we give you a presence.",
-        button: "Read More"
+        img: img1,
+        heading: "DEPOSITO MOBILI",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
     },
+    {
+        img: img1,
+        heading: "DISTRIBUZIONE ARREDI",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
+    },
+    {
+        img: img1,
+        heading: "SGOMBERI",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
+    },
+    {
+        img: img1,
+        heading: "SMALTIMENTO IN DISCARICA",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
+    }
 ]

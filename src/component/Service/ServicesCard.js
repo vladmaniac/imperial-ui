@@ -11,8 +11,8 @@ const ServicesCard = () => {
         <>
             <section id="services_page">
                 <div className="container">
-                    <SectionHeading heading="We Serve Various Ways" para="Solving your supply chain needs from end to end, taking the
-        complexity out of container shipping. We are at the forefront of developing innovation."/>
+                    <SectionHeading heading="Affida il tuo trasloco ai nostri professionisti"
+                                    para="Risolvere le esigenze della tua catena di approvvigionamento dall'inizio alla fine, eliminando la complessità della spedizione e del movimento. Siamo in prima linea nello sviluppo dell'innovazione per la logistica."/>
                     <div className="service_wrapper_top">
                         <div className="row">
 

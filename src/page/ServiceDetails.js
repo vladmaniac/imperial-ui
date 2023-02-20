@@ -6,7 +6,7 @@ import OurPartner from '../component/Common/OurPartner'
 const ServiceDetails = () => {
     return (
         <>
-            <CommonBanner heading="Service Details" page="Service Details"/>
+            <CommonBanner heading="Dettagli del servizio" page="Dettagli del servizio"/>
             <ServiceDetailsMain/>
             <OurPartner/>
         </>
