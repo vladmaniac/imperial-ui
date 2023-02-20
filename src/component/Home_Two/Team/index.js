@@ -32,8 +32,7 @@ const TeamArea = () => {
         <>
             <section id="team_area">
                 <div className="container">
-                    <SectionHeading heading="Our Team" para="Solving your supply chain needs from end to end, taking the
-complexity out of container shipping. We are at the forefront of developing innovation."/>
+                    <SectionHeading heading="La nostra squadra" para="Il nostro team di professionisti è pronto ogni giorno della settimana per offrire l'esperienza logistica imperiale."/>
                     <div className="row">
                         <div className="col-lg-12 col-md-12 col-sm-12 col-12">
                             <div className="team-slider">
