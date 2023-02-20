@@ -11,8 +11,8 @@ const BlogHome = () => {
         <>
             <section id="news_blog_area">
                 <div className="container">
-                    <SectionHeading heading="Recent News" para="Solving your supply chain needs from end to end, taking the
-             complexity out of container shipping. We are at the forefront of developing innovation."/>
+                    <SectionHeading heading="Notizie recenti" para="Risolvere le esigenze della tua catena di approvvigionamento dall'inizio alla fine, prendendo il
+                        complessità fuori sede o trasferimento a casa. Siamo in prima linea nello sviluppo dell'innovazione nella logistica e nel movimento"/>
                     <div className="row">
 
                         {BlogData.slice(0, 3).map((data, index) => (

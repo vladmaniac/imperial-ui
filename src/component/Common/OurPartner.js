@@ -54,7 +54,7 @@ const OurPartner = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-3 col-md-12 col-sm-12 col-12">
                             <div className="partner_heading">
-                                <h2>Our Partners:</h2>
+                                <h2>I nostri partner: </h2>
                             </div>
                         </div>
                         <div className="col-lg-9 col-md-12 col-sm-12 col-12">

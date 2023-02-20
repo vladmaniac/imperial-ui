@@ -4,47 +4,39 @@ import FormInput from '../Common/FormInput'
 const RequestQuoteForm = () => {
  let options1 = [
   {
-      text: "Freight Type",
+      text: "Traslochi internazionale",
       value: ""
   },
   {
-      text: "Type 1",
+      text: "Traslochi",
       value: ""
   },
   {
-      text: "Type 2",
+      text: "Trasporti",
       value: ""
   },
   {
-      text: "Type 3",
+      text: "Logistica e magazzino",
       value: ""
   },
   {
-      text: "Type 4",
+      text: "Sgomberi",
       value: ""
   },
 ]
  let options2 = [
   {
-      text: "Incoterms",
+      text: "Telefono",
       value: ""
   },
   {
-      text: "Type 1",
+      text: "Email",
       value: ""
   },
   {
-      text: "Type 2",
+      text: "Ufficio postale",
       value: ""
-  },
-  {
-      text: "Type 3",
-      value: ""
-  },
-  {
-      text: "Type 4",
-      value: ""
-  },
+  }
 ]
  return (
    <>
@@ -64,7 +56,7 @@ const RequestQuoteForm = () => {
                      tag="select"
                      classes="form-control"
                      options={options1}
-                     label="Freight Type"
+                     label="Tipo di servizio"
                    />
                  </div>
                  <div className="col-lg-6">
@@ -72,7 +64,7 @@ const RequestQuoteForm = () => {
                      tag="select"
                      classes="form-control"
                      options={options2}
-                     label="Incoterms"
+                     label="Voglio essere contattato da"
                    />
                  </div>
                  <div className="col-lg-6">
@@ -81,8 +73,8 @@ const RequestQuoteForm = () => {
                      type={"email"}
                      name={"departure"}
                      classes={"form-control"}
-                     placeholder={"City of departure"}
-                     label="City of departure"
+                     placeholder={"Indirizzo di partenza"}
+                     label="Indirizzo di partenza"
                    />
                  </div>
                  <div className="col-lg-6">
@@ -91,33 +83,33 @@ const RequestQuoteForm = () => {
                      type={"text"}
                      name={"city"}
                      classes={"form-control"}
-                     placeholder={"Delivery city"}
-                     label="Delivery city"
+                     placeholder={"Indirizzo di destinazione"}
+                     label="Indirizzo di destinazione"
                    />
                  </div>
                  <div className="col-lg-6">
                    <FormInput
                      tag={"input"}
-                     type={"number"}
-                     name={"weight"}
+                     type={"date"}
+                     name={"date"}
                      classes={"form-control"}
-                     placeholder={"Total gross weight (KG)"}
-                     label="Total gross weight (KG)"
+                     placeholder={"Data indicativa"}
+                     label="Data indicativa"
                    />
                  </div>
                  <div className="col-lg-6">
                    <FormInput
                      tag={"input"}
-                     type={"text"}
-                     name={"dimension"}
+                     type={"file"}
+                     name={"photo"}
                      classes={"form-control"}
-                     placeholder={"Dimension"}
-                     label="Dimension"
+                     placeholder={"Allega foto da cose da traslocare"}
+                     label="Allega foto da cose da traslocare"
                    />
                  </div>
                  <div className="col-lg-12">
                 <div className="heading_quote arae_top">
-                    <h3>Your Personal Details</h3>
+                    <h3>I tuoi dettagli personali</h3>
                 </div>
                 </div>
                 <div className="col-lg-6">
@@ -126,8 +118,8 @@ const RequestQuoteForm = () => {
                      type={"text"}
                      name={"fname"}
                      classes={"form-control"}
-                     placeholder={"First Name"}
-                     label="First Name"
+                     placeholder={"Nome"}
+                     label="Nome"
                    />
                  </div>
                 <div className="col-lg-6">
@@ -136,8 +128,8 @@ const RequestQuoteForm = () => {
                      type={"text"}
                      name={"lname"}
                      classes={"form-control"}
-                     placeholder={"Last Name"}
-                     label="Last Name"
+                     placeholder={"Cognome"}
+                     label="Cognome"
                    />
                  </div>
                 <div className="col-lg-6">
@@ -147,7 +139,7 @@ const RequestQuoteForm = () => {
                      name={"email"}
                      classes={"form-control"}
                      placeholder={"Email"}
-                     label="Your Email"
+                     label="Email"
                    />
                  </div>
                 <div className="col-lg-6">
@@ -156,8 +148,8 @@ const RequestQuoteForm = () => {
                      type={"number"}
                      name={"number"}
                      classes={"form-control"}
-                     placeholder={"Phone Nnmber"}
-                     label="Phone Nnmber"
+                     placeholder={"Telefono"}
+                     label="Telefono"
                    />
                  </div>
                 <div className="col-lg-12">
@@ -166,13 +158,13 @@ const RequestQuoteForm = () => {
                      type={"text"}
                      name={"text"}
                      classes={"form-control"}
-                     placeholder={"Your Messages"}
-                     label="Your Messages"
+                     placeholder={"Messagio"}
+                     label="Messagio"
                    />
                  </div>
                  <div className="col-lg-12">
                   <div className="quote_submit_button">
-                   <button className="btn btn-theme">Send Messages</button>
+                   <button className="btn btn-theme">Invia messaggio</button>
                   </div>
                  </div>
                </div>
