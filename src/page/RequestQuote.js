@@ -6,7 +6,7 @@ import OurPartner from '../component/Common/OurPartner'
 const RequestQuote = () => {
  return (
    <>
-     <CommonBanner heading="Request Quote" page="Request Quote" />
+     <CommonBanner heading="Richiedi un preventivo" page="Richiedi un preventivo" />
      <RequestQuoteForm/>
      <OurPartner />
    </>

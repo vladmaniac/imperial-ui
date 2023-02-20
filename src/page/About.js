@@ -8,7 +8,7 @@ import TeamArea from '../component/Home_Two/Team'
 const About = () => {
     return (
         <>
-            <CommonBanner heading="About" page="About"/>
+            <CommonBanner heading="Chi siamo" page="Chi siamo"/>
             <HomeTwoAbout/>
             <ServiceHomeTwo/>
             <TeamArea/>
