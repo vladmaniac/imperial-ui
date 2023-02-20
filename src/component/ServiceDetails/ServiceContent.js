@@ -11,7 +11,7 @@ const ServiceContent = () => {
                     <div className="service_details_items">
                         <img src={img1} alt="img"/>
                         <div className="service_details_para">
-                            <h3>Easy Shipment Solution</h3>
+                            <h3>Soluzione di spedizione facile</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut
                                 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation

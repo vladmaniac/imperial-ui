@@ -1,29 +1,29 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 // Import BlogData Component
-import img1 from '../../../assets/img/blog/sidetmb-1.jpg'
+import img1 from '../../../assets/img/blog/sidetmb-1.png'
 
 
 const PopularPosts = [
     {
         img: (img1),
-        title: "Delivering logistic services",
-        date: "July 25, 2017"
+        title: "Servizi logistici di consegna",
+        date: "Luglio 25, 2022"
     },
     {
         img: (img1),
-        title: "Delivering logistic services",
-        date: " July 25, 2017"
+        title: "Gestione del magazzino",
+        date: " Luglio 25, 2022"
     },
     {
         img: (img1),
-        title: "Delivering logistic services",
-        date: " July 25, 2017"
+        title: "Digitalizzazione nei trasporti",
+        date: " Luglio 25, 2022"
     },
     {
         img: (img1),
-        title: "Delivering logistic services",
-        date: "July 25, 2017"
+        title: "Un nuovo cliente per noi",
+        date: "Luglio 25, 2023"
     }
 ]
 
@@ -34,7 +34,7 @@ const Category = [
         count: "23"
     },
     {
-        list: "High Way",
+        list: "Montaggio mobili",
         count: "25"
     },
     {
@@ -42,11 +42,11 @@ const Category = [
         count: "28"
     },
     {
-        list: "Manufacturing",
+        list: "Trasporti internazionali",
         count: "45"
     },
     {
-        list: "Pharmacology",
+        list: "Traslochi",
         count: "53"
     },
     {
@@ -61,25 +61,25 @@ const PopularTag = [
         list: "Cargo"
     },
     {
-        list: "Contact"
+        list: "Contatto"
     },
     {
-        list: "Ground"
+        list: "Magazino"
     },
     {
         list: "Management"
     },
     {
-        list: "Ocean"
+        list: "Traslochi"
     },
     {
-        list: "Offers"
+        list: "Servizi"
     },
     {
         list: "Shipment"
     },
     {
-        list: "Transporation"
+        list: "Trasporti"
     },
 
 ]

@@ -7,7 +7,7 @@ const ReplayForm = () => {
         <>
             <div className="blog_single_item">
                 <div className="blog_sidebar_heading">
-                    <h3>Leave Your Reply</h3>
+                    <h3>Lascia la tua risposta</h3>
                 </div>
                 <div className="replay_leave_form">
                     <form action="!#">
@@ -18,7 +18,7 @@ const ReplayForm = () => {
                                     type={'text'}
                                     name={'name'}
                                     classes={'form-control'}
-                                    placeholder={'Your Name'}
+                                    placeholder={'Nome'}
                                 />
                             </div>
                             <div className="col-lg-6 col-md-12 col-sm-12 col-12">
@@ -27,7 +27,7 @@ const ReplayForm = () => {
                                     type={'text'}
                                     name={'email'}
                                     classes={'form-control'}
-                                    placeholder={'Your Email'}
+                                    placeholder={'Email'}
                                 />
                             </div>
                             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
@@ -45,7 +45,7 @@ const ReplayForm = () => {
                                     type={'text'}
                                     name={'textarea'}
                                     classes={'form-control'}
-                                    placeholder={'Type Your Messages'}
+                                    placeholder={'Digita il tuo messaggio'}
                                 />
                             </div>
 
@@ -53,7 +53,7 @@ const ReplayForm = () => {
                                 <div className="leave_form_submit">
                                     <FormInput
                                         tag={'button'}
-                                        val={'Submit'}
+                                        val={'Invia'}
                                     />
                                 </div>
                             </div>

@@ -6,20 +6,20 @@ import Counter from '../../Home_One/About/Counter'
 const CounterData = [
     {
         countStart: 100,
-        countEnd: 12345,
-        heading: "COMPANY ESTABLISHED",
+        countEnd: 2010,
+        heading: "COSTITUISCE LA SOCIETA'",
         icon: " fas fa-building"
     },
     {
         countStart: 100,
-        countEnd: 12345,
-        heading: "COUNTRIES SERVED",
+        countEnd: 6500,
+        heading: "PACHI CONSEGNATI",
         icon: "fas fa-globe"
     },
     {
-        countStart: 100,
-        countEnd: 12345,
-        heading: "PORTS SERVED",
+        countStart: 1,
+        countEnd: 25,
+        heading: "DIPENDENTI",
         icon: " fas fa-building"
     },
 ]

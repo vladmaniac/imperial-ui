@@ -2729,7 +2729,7 @@ Search Overlay CSS
 /* --Counter Area-- */
 #counter_area_main {
     padding: 120px 0;
-    background-image: url('../img/common/track-bg.jpg');
+    background-color: #032c56;
 }
 
 #counter_area_main .counter_count h2 {
