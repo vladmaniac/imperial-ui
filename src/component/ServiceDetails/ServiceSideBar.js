@@ -7,21 +7,23 @@ const ServiceSideBar = () => {
             <div className="col-lg-4">
                 <div className="service_details_sidebar">
                     <div className="sidebar_service_wrappers">
-                        <h3>Our Service</h3>
+                        <h3>I nostri servizi</h3>
                         <ul>
-                            <li><Link to="/service">Finance Audit</Link></li>
-                            <li><Link to="/service">Healthcare Consulting</Link></li> 
-                            <li><Link to="/service">Strategic Marketing</Link></li>
-                            <li><Link to="/service">Contingency Plans</Link></li>
-                            <li><Link to="/service">Mergers & Acquisitions</Link></li>
-                            <li><Link to="/service">Marketing & Sales</Link></li>
+                            <li><Link to="/service">Trasloco casa</Link></li>
+                            <li><Link to="/service">Trasloco ufficio</Link></li> 
+                            <li><Link to="/service">Traslochi internazionali</Link></li>
+                            <li><Link to="/service">Montaggio mobili</Link></li>
+                            <li><Link to="/service">Deposito mobili</Link></li>
+                            <li><Link to="/service">Distribuzione arredi</Link></li>
+                            <li><Link to="/service">Sgomberi</Link></li>
+                            <li><Link to="/service">Smaltimento in discarica</Link></li>
                         </ul>
                     </div>
                     <div className="sidebar_service_wrappers">
-                        <h3>Our Brochures</h3>
+                        <h3>I nostri opuscoli</h3>
                         <ul>
-                            <li><a href="#!"> <i className="far fa-file-pdf"></i> Service Brochure.Pdf</a></li>
-                            <li><a href="#!"><i className="far fa-file-word"></i> About Company.Doc</a></li>
+                            <li><a href="#!"> <i className="far fa-file-pdf"></i> Opuscolo di servizio.Pdf</a></li>
+                            <li><a href="#!"><i className="far fa-file-word"></i> About Imperial.Doc</a></li>
                         </ul>
                     </div>
                     <div className="sidebar_service_wrappers">
