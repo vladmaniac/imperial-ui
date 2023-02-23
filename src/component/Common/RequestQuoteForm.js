@@ -70,10 +70,10 @@ const RequestQuoteForm = () => {
                  <div className="col-lg-6">
                    <FormInput
                      tag={"input"}
-                     type={"email"}
+                     type={"text"}
                      name={"departure"}
                      classes={"form-control"}
-                     placeholder={"Indirizzo di partenza"}
+                     placeholder={"Digitare il indirizzo di partenza"}
                      label="Indirizzo di partenza"
                    />
                  </div>
@@ -83,8 +83,28 @@ const RequestQuoteForm = () => {
                      type={"text"}
                      name={"city"}
                      classes={"form-control"}
-                     placeholder={"Indirizzo di destinazione"}
+                     placeholder={"Digitare il indirizzo di destinazione"}
                      label="Indirizzo di destinazione"
+                   />
+                 </div>
+                 <div className="col-lg-6">
+                   <FormInput
+                     tag={"input"}
+                     type={"text"}
+                     name={"floor-start"}
+                     classes={"form-control"}
+                     placeholder={"Digitare il piano di partenza"}
+                     label="Piano di partenza"
+                   />
+                 </div>
+                 <div className="col-lg-6">
+                   <FormInput
+                     tag={"input"}
+                     type={"text"}
+                     name={"floor-destination"}
+                     classes={"form-control"}
+                     placeholder={"Digitare il piano di destinazione"}
+                     label="Piano di destinazione"
                    />
                  </div>
                  <div className="col-lg-6">

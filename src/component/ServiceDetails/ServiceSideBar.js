@@ -43,6 +43,9 @@ const ServiceSideBar = () => {
                             <p>deposito@imperialtraslochi.it</p>
                         </div>
                     </div>
+                    <div className="sidebar_service_wrapper">
+                        <Link className="btn btn-theme" to="/request_quote">Richiedi un preventivo</Link>
+                    </div>
                 </div>
             </div>
         </>

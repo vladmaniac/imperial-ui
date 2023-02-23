@@ -177,19 +177,19 @@ const GetSchedule = () => {
                                         <div className="row">
                                             <div className="col-md-4 ">
                                                 <div className="form-group">
-                                                    <label htmlFor="number">Name</label>
+                                                    <label htmlFor="number">Nome</label>
                                                     <input type="text" className="form-control"/>
                                                 </div>
                                             </div>
                                             <div className="col-md-4">
                                                 <div className="form-group">
-                                                    <label htmlFor="email">E-mail Address</label>
+                                                    <label htmlFor="email">E-mail</label>
                                                     <input type="text" className="form-control ma-inp"/>
                                                 </div>
                                             </div>
                                             <div className="col-md-4">
                                                 <div className="form-group">
-                                                    <button type="submit" className="btn btn-theme">Submit
+                                                    <button type="submit" className="btn btn-theme">Invia
                                                     </button>
                                                 </div>
                                             </div>
