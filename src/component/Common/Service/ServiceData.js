@@ -54,5 +54,11 @@ export const ServiceData = [
         heading: "SMALTIMENTO IN DISCARICA",
         para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
         button: "Scopri di più"
+    },
+    {
+        img: img1,
+        heading: "NOLEGGIO PIATTAFORMA AEREA",
+        para: "Il nostro servizio di trasporto è gestito da un team di professionisti e il tuo carico è assicurato per tutto il percorso, gestito con la massima cura e immagazzinato nel nostro moderno magazzino logistico",
+        button: "Scopri di più"
     }
 ]

@@ -17,6 +17,7 @@ const ServiceSideBar = () => {
                             <li><Link to="/service">Distribuzione arredi</Link></li>
                             <li><Link to="/service">Sgomberi</Link></li>
                             <li><Link to="/service">Smaltimento in discarica</Link></li>
+                            <li><Link to="/service">Noleggio piattaforma aerea</Link></li>
                         </ul>
                     </div>
                     <div className="sidebar_service_wrappers">
