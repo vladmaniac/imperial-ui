@@ -2973,6 +2973,11 @@ Search Overlay CSS
     max-width: 100%;
     cursor: pointer;
     width: 100%;
+    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+
+.react-fancybox .thumbnail:hover {
+    box-shadow: 0 10px 16px 0 #002346, 0 6px 20px 0 #002346 !important;
 }
 
 /* =============================
